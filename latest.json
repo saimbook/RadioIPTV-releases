@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.14",
-  "apkUrl": "https://raw.githubusercontent.com/saimbook/RadioIPTV-releases/main/apk/RadioIPTV-1.0.14.apk",
-  "releaseNotes": "RadioIPTV automatic build 1.0.14",
+  "versionCode": 15,
+  "versionName": "1.0.15",
+  "apkUrl": "https://raw.githubusercontent.com/saimbook/RadioIPTV-releases/main/apk/RadioIPTV-1.0.15.apk",
+  "releaseNotes": "RadioIPTV automatic build 1.0.15",
   "packageName": "com.aistudio.radioiptv.sana"
 }
